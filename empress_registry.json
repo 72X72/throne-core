@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Mutation Link",
+    "timestamp": "2025-09-24T23:05:25",
+    "link": "https://copilot.microsoft.com/share/abc123",
+    "mutation_type": "injected"
+  },
+  {
+    "title": "Mutation Link",
+    "timestamp": "2025-09-24T23:05:25",
+    "link": "https://copilot.microsoft.com/share/def456",
+    "mutation_type": "injected"
+  },
+  {
+    "title": "Mutation Link",
+    "timestamp": "2025-09-24T23:05:25",
+    "link": "https://copilot.microsoft.com/share/ghi789",
+    "mutation_type": "injected"
+  },
+  {
+    "title": "Mutation Link",
+    "timestamp": "2025-09-24T23:12:13",
+    "link": "https://copilot.microsoft.com/share/abc123",
+    "mutation_type": "injected"
+  },
+  {
+    "title": "Mutation Link",
+    "timestamp": "2025-09-24T23:12:13",
+    "link": "https://copilot.microsoft.com/share/def456",
+    "mutation_type": "injected"
+  },
+  {
+    "title": "Mutation Link",
+    "timestamp": "2025-09-24T23:12:13",
+    "link": "https://copilot.microsoft.com/share/ghi789",
+    "mutation_type": "injected"
+  }
+]
